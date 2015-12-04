@@ -6,6 +6,7 @@
 2. `mkdir venv`
 3. `virtualenv --python python3 venv`
 4. `source venv/bin/activate`
+5. `pip install -r requirements.txt`
 
 ## Usage
 
